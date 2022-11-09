@@ -12,9 +12,10 @@
      <img width=50px height=50px src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png>  
 </ul>
 <h2>Contactame</h2>
+<div></div>
 📩 email: nicolasvillar4@gmail.com
 <div></div>
 <a href=https://www.linkedin.com/in/nicolas-villar-a81a1a23a/>
  <img width=20px height=20px src=https://cdn-icons-png.flaticon.com/512/174/174857.png> https://www.linkedin.com/in/nicolas-villar-a81a1a23a/
 </a>
-
+<div></div>
