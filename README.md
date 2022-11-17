@@ -2,7 +2,7 @@
  Soy un desrrollador Full Stack orientado al frontend, me gusta buscar nuevos desafios y aprender nuevas tecnologias
 
 <p>
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvillarr&layout=compact&card_width=800&theme=radical&hide_border=true" />
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvillarr&layout=compact&card_width=800&theme=radical&hide_border=false" />
 </p>
  <h2>Tecnologias que utilizo</h2>
  <ul>
